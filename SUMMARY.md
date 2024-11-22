@@ -1,7 +1,7 @@
 # Table of contents
 
-* [🔗 Based Rollups](README.md)
-* [Page](page.md)
+* [💎 Based Rollups](README.md)
+* [Resources](resources.md)
 
 ## Ethereum Sequencing
 

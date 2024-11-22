@@ -4,13 +4,13 @@ description: >-
   Ethereum validator.
 ---
 
-# 🔗 Based Rollups
+# 💎 Based Rollups
 
 ## ⏱️ Based Rollups in 60 seconds
 
 Ethereum is the most credibly neutral and censorship-resistant shared consensus protocol humanity has ever created. It's the geographically, economically, and culturally diverse validator set that makes this possible. Rollups are an extension of Ethereum, but currently, nearly all rollups use their own validator set, usually a single centralized sequencer. This limits composability and causes liquidity fragmentation, creating "island nations" rather than a unified Ethereum. Based rollups solve this problem by giving the power to sequence transactions in a rollup to the same validator proposing the L1 block. There are huge benefits to Ethereum from this arrangement which will be explained in detail on this site.
 
-## **🤔 Why should an Ethereum validator care about Based Rollups?**
+## **🤔 I'm an Ethereum Validator - Why should an Ethereum validator care about Based Rollups?**
 
 Being a Based Rollup sequencer is opt-in, so by default you don't have to care. MEV-Boost is an example of something that you as an Ethereum validator can opt-in to and increase your revenue from block proposals, but you can also choose not to use it.
 
