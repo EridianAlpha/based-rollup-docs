@@ -86,7 +86,6 @@ description: The timeline and resources for Ethereum Based Rollups.
 * [Avoiding Accidental Liveness Faults for Based Preconfs - mteam](https://ethresear.ch/t/avoiding-accidental-liveness-faults-for-based-preconfs/19888)
 * [Who owns the write lock? Relays vs Gateways vs Sequencers vs Inclusion Lists](https://streameth.org/zuberlin/watch?session=666b14db07f92b086c2cb587)
 * [We're All Building the Same Thing - Jon Charbonneau](https://dba.xyz/were-all-building-the-same-thing)
-  * An incredibly detailed post about preconfs, based vs non-based rollups, and so much more!
 * [Ethereum Sequencing and Preconfirmations Call #10](https://www.youtube.com/watch?v=jrm4ZUoj9xY\&list=PLJqWcTqh_zKHDFarAcF29QfdMlUpReZrR)
 * [Ethereum Sequencing and Preconfirmations Call #11](https://www.youtube.com/watch?v=fbyy_IHo-lI\&list=PLJqWcTqh_zKHDFarAcF29QfdMlUpReZrR)
 
@@ -105,8 +104,7 @@ description: The timeline and resources for Ethereum Based Rollups.
 
 ## November 2024
 
-* [Lido Connect "Get ready for preconfs" discussion - Eugene Pshenichny - Max Resnick](https://x.com/EridianAlpha/status/1856976093489615317) &#x20;
-  * Recording pending
+* [Get ready for preconfs discussion - Eugene Pshenichny - Max Resnick](https://x.com/EridianAlpha/status/1856976093489615317) (Recording pending)
 * [First based preconfs on mainnet](https://x.com/drakefjustin/status/1857083454011101600)&#x20;
 * [Sequencing Day](https://lu.ma/sequencing_day)
 * [Bankless Summit - Based Rollups ❤️ ETH - Spire - mteam](https://x.com/BanklessHQ/status/1859237063008174248)
