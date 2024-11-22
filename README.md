@@ -16,7 +16,7 @@ Being a Based Rollup sequencer is opt-in, so by default you don't have to care. 
 
 So what are the benefits for a validator who opts-in?
 
-* You earn more rewards because you're taking on more responsibility.
+* You earn more rewards as you're taking on more duties.
 * You improve the user experience of Ethereum by enabling L1 and L2 preconfirmations.
 * You improve the liveness and security of L2s.
 
