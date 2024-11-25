@@ -8,13 +8,13 @@ description: >-
 
 ## ⏱️ Based Rollups in 60 seconds
 
-Ethereum is the most credibly neutral and censorship-resistant shared consensus protocol humanity has ever created. It's the geographically, economically, and culturally diverse validator set that makes this possible. Rollups are an extension of Ethereum, but currently, nearly all rollups use their own validator set, usually a single centralized sequencer. This limits composability and causes liquidity fragmentation, creating "island nations" rather than a unified Ethereum. Based rollups solve this problem by giving the power to sequence transactions in a rollup to the same validator proposing the L1 block. There are huge benefits to Ethereum from this arrangement which will be explained in detail on this site.
+Ethereum is the most credibly neutral and censorship-resistant shared consensus protocol humanity has ever created. It's the geographically, economically, and culturally diverse validator set that makes this possible. Rollups can be an extension of Ethereum, but currently, nearly all rollups use their own validator set, usually a single centralized sequencer. This limits composability and causes liquidity fragmentation, creating "island nations" rather than a unified Ethereum. Based rollups solve this problem by giving the power to sequence transactions in a rollup to the Ethereum L1 validators. This arrangement can create significant benefits for Ethereum, such as synchronous atomic composability, preconfirmations, and more!
 
 ## **🤔 Why should I care about Based Rollups as an Ethereum Validator?**
 
 Being a Based Rollup sequencer is opt-in, so by default you don't have to care. MEV-Boost is an example of something that you as an Ethereum validator can opt-in to and increase your revenue from block proposals, but you can also choose not to use it.
 
-So what are the benefits for a validator who opts-in?
+So what are the benefits for a validator who opts-in to based sequencing?
 
 * You earn more rewards as you're taking on more duties.
 * You improve the user experience of Ethereum by enabling L1 and L2 preconfirmations.
@@ -36,7 +36,8 @@ This site won't explain how to set up an Ethereum validator or go through all th
 
 ## 💊 It's time to get Base Rollup pilled
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-
-
+{% content-ref url="getting-started/an-introduction-to-sequencing.md" %}
+[an-introduction-to-sequencing.md](getting-started/an-introduction-to-sequencing.md)
+{% endcontent-ref %}

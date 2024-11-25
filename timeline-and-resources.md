@@ -76,7 +76,7 @@ description: The timeline and resources for Ethereum Based Rollups.
 * [Credibly Neutral Preconfirmation Collateral: The Preconfirmation Registry - mteam](https://ethresear.ch/t/credibly-neutral-preconfirmation-collateral-the-preconfirmation-registry/19634)
 * [Taiko launches on Mainnet](https://taiko.mirror.xyz/Pizjv30FvjsZUwEG-Da7Gs6F8qeDLc4CKKEBqy3pTt8)
 
-<figure><img src=".gitbook/assets/image.png" alt="State of the Based Ecosystem - May 2024"><figcaption><p>State of the Based Ecosystem - May 2024</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2).png" alt="State of the Based Ecosystem - May 2024"><figcaption><p>State of the Based Ecosystem - May 2024</p></figcaption></figure>
 
 ## June 2024
 

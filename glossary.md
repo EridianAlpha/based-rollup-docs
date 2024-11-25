@@ -1,3 +1,8 @@
+---
+description: Under construction 🏗️
+hidden: true
+---
+
 # 📖 Glossary
 
 
