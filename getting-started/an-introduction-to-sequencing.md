@@ -1,6 +1,6 @@
 # 🔢 An introduction to sequencing
 
-An Ethereum validator secures Ethereum. It performs several duties but for Based Rollups only the `block proposal` duty will be discussed. Block proposals are random and rare, on average once every [\~6 months](https://luckystaker.com/) but they provide the majority of the rewards a validator receives.
+An Ethereum validator secures Ethereum. It performs several duties but for learning about Based Rollups only the `block proposal` duty will be discussed. Block proposals are random and rare, on average once every [\~6 months](https://luckystaker.com/) but they provide the majority of the rewards a validator receives.
 
 ## Ethereum is a sequencer
 
