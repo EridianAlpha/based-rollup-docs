@@ -66,10 +66,10 @@ One of the main benefits to users currently on L2s (other than much lower gas fe
 
 So what is the solution? Preconfirmations ⏱️
 
-Preconfirmations will require a validator to opt-in to say "I'm the next block proposer (or one very soon) and I see your tx in the mempool. For a fee, I will promise to include it in my block, so you can get a ✅ immediately". Before explaining preconfirmations in more detail, let's first look at how centralized sequencer L2s work:
+Preconfirmations will require a validator to opt-in to say "I'm the next block proposer (or one very soon) and I see your tx in the mempool. For a fee, I will promise to include it in my block, so you can get a ✅ immediately". Before explaining preconfirmations in more detail, let's first look at how rollups with non-based sequencer work and why based rollups would want to emulate the best parts of that user experience:
 
 {% content-ref url="what-are-we-waiting-for.md" %}
 [what-are-we-waiting-for.md](what-are-we-waiting-for.md)
 {% endcontent-ref %}
 
-Many, many other benefits (synchronous atomic composability, etc.) will be covered in detail in the following pages, but for now... Stay Based.
+Many other concepts (synchronous atomic composability, execution tickets, etc.) will be covered in detail in the following pages, but for now... Stay Based.

@@ -1,14 +1,8 @@
----
-description: Under construction 🏗️
----
-
 # ✅ What are we waiting for?
 
 ## More clicks, faster ticks ✅
 
-Rollups can have much shorter block times as they manage their own state and only snapshots of that state are stored on Ethereum.
-
-If at time t=0 a user starts with 1 ETH in their wallet on an L2:
+Non-based rollups (usually with centralized sequencers) can have much shorter block times than the Ethereum L1. What does that look like for a user? If at time t=0 a user starts with 1 ETH in their wallet on a none-based L2:
 
 * t=2s the user buys an NFT on the L2
 * t=4s the NFT is used in a game and the player wins 0.1 ETH
@@ -20,3 +14,4 @@ At t=12s the L1 proposes the next block and the L2 bids to include the changes m
 
 <div data-full-width="true"><figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure></div>
 
+🏗️️️ Under construction 🏗️
