@@ -54,7 +54,7 @@ But what if the sequencing concept is extended further? What if instead of seque
 
 <div data-full-width="true"><figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure></div>
 
-That looks like a lot of extra work for an individual validator - but don't despair! In practice, this specialized L2 sequencing, proving, and blob creation is performed by specialized actors and the proposer simply accepts whole Ethereum blocks through e.g. MEV Boost. As an Ethereum validator if you're currently using MEV Boost you are already sequencing based rollups without even knowing it 🤯
+That looks like a lot of extra work for an individual validator - but don't despair! In practice, this specialized L2 sequencing, proving, and blob creation is performed by specialized actors and the proposer simply accepts whole Ethereum blocks through MEV Boost. As an Ethereum validator, if you're currently using MEV Boost you are already sequencing based rollups without even knowing it 🤯
 
 <figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
@@ -62,11 +62,11 @@ This is how Ethereum scales. This is how Ethereum solves fragmentation and compo
 
 But there's a catch. The Ethereum L1 is slow! :snail:&#x20;
 
-One of the main benefits to users currently on L2s (other than much lower gas fees) is that transactions get confirmed very quickly, on the order of 2 seconds or less. This is a big UX improvement as users get a "Success ✅" message without waiting a full 12 seconds or more for their transaction to be included on the L1.
+One of the main benefits to users currently on L2s (other than much lower gas fees) is that transactions get confirmed very quickly, on the order of 2 seconds or less. This is a big UX improvement as users get a " ✅" response without waiting a full 12 seconds or more for their transaction to be included on the L1.
 
 So what is the solution? Preconfirmations ⏱️
 
-Preconfirmations will require a validator to opt-in to say "I'm the next block proposer (or one very soon) and I see your tx in the mempool. For a fee, I will promise to include it in my block, so you can get a ✅ immediately".
+Preconfirmations will require a validator to opt-in to say "I'm the next block proposer (or one very soon) and I see your tx in the mempool. For a fee, I will promise to include it in my block, so you can get a ✅ immediately". Before explaining preconfirmations in more detail, let's first look at how centralized sequencer L2s work:
 
 {% content-ref url="what-are-we-waiting-for.md" %}
 [what-are-we-waiting-for.md](what-are-we-waiting-for.md)
