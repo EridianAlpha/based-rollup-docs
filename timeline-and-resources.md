@@ -57,6 +57,7 @@ description: The timeline and resources for Ethereum Based Rollups.
 * [Ethereum Sequencing and Preconfirmations Call #4](https://www.youtube.com/watch?v=IsYISmTmPmQ\&list=PLJqWcTqh_zKHDFarAcF29QfdMlUpReZrR)
 * [Based Ticketing Rollup - George Spasov](https://hackmd.io/LRQPSItESPuMhUSwrB71rQ)
 * [Preconfirmations Glossary & Requirements - George Spasov](https://hackmd.io/@Perseverance/Sy4a_BX2p)
+* [Based Preconfs FAQ - Samuel Laferriere](https://hackmd.io/@samlaf/based-preconfs-faq)
 
 ## April 2024
 
@@ -76,7 +77,7 @@ description: The timeline and resources for Ethereum Based Rollups.
 * [Credibly Neutral Preconfirmation Collateral: The Preconfirmation Registry - mteam](https://ethresear.ch/t/credibly-neutral-preconfirmation-collateral-the-preconfirmation-registry/19634)
 * [Taiko launches on Mainnet](https://taiko.mirror.xyz/Pizjv30FvjsZUwEG-Da7Gs6F8qeDLc4CKKEBqy3pTt8)
 
-<figure><img src=".gitbook/assets/image (2).png" alt="State of the Based Ecosystem - May 2024"><figcaption><p>State of the Based Ecosystem - May 2024</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1).png" alt="State of the Based Ecosystem - May 2024"><figcaption><p>State of the Based Ecosystem - May 2024</p></figcaption></figure>
 
 ## June 2024
 
