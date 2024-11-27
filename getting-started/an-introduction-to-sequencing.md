@@ -52,14 +52,6 @@ Ethereum is a sequencer for its own transactions. A validator can choose to orde
 
 But what if the sequencing concept is extended further? What if instead of sequencing only the Ethereum L1 txs, Ethereum validators also sequenced L2 txs? This is `Based Sequencing` and is the foundation of `Based Rollups`.
 
-{% hint style="info" %}
-**Why would a centralized L2 sequencer give up control over their sequencing to the L1 proposers?**
-
-Sequencing makes a lot of money. Centralized sequencing on L2s often generates more revenue than all of the Ethereum L1 combined!&#x20;
-{% endhint %}
-
-
-
 <div data-full-width="true"><figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure></div>
 
 That looks like a lot of extra work for an individual validator - but don't despair! In practice, this specialized L2 sequencing, proving, and blob creation is performed by specialized actors and the proposer simply accepts whole Ethereum blocks through e.g. MEV Boost. As an Ethereum validator if you're currently using MEV Boost you are already sequencing based rollups without even knowing it 🤯
@@ -74,7 +66,7 @@ One of the main benefits to users currently on L2s (other than much lower gas fe
 
 So what is the solution? Preconfirmations ⏱️
 
-Preconfirmations will require a validator to opt-in to say "I'm the next block proposer and I see your tx in the mempool. For a fee, I will promise to include it in my block, so you can get a ✅ immediately".
+Preconfirmations will require a validator to opt-in to say "I'm the next block proposer (or one very soon) and I see your tx in the mempool. For a fee, I will promise to include it in my block, so you can get a ✅ immediately".
 
 {% content-ref url="what-are-we-waiting-for.md" %}
 [what-are-we-waiting-for.md](what-are-we-waiting-for.md)
