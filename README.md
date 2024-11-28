@@ -36,7 +36,7 @@ This site won't explain how to set up an Ethereum validator or go through all th
 
 ## 💊 It's time to get Base Rollup pilled
 
-<figure><img src=".gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% content-ref url="getting-started/an-introduction-to-sequencing.md" %}
 [an-introduction-to-sequencing.md](getting-started/an-introduction-to-sequencing.md)

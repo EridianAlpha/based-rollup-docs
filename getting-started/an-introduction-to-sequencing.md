@@ -6,7 +6,7 @@ An Ethereum validator secures Ethereum. It performs several duties but for learn
 
 Even though `Based Sequencing` has only [more recently been discussed](https://ethresear.ch/t/based-rollups-superpowers-from-l1-sequencing/15016) in the context of L2s, the Ethereum L1 has always been a sequencer.
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt="" width="321"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt="" width="321"><figcaption></figcaption></figure>
 
 When a validator is selected to propose a block they have complete control over the order of the transactions in the block they build. They can't include invalid transactions (tx) but can include (or exclude) any tx as long as it covers the [base gas fee](https://ethereum.org/en/developers/docs/gas/#base-fee).
 
@@ -16,7 +16,7 @@ This may change in the future with features such as [FOCIL](https://eips.ethereu
 
 When a validator only uses their local mempool to look for txs to include in their block it is called `vanilla block building`.
 
-<div data-full-width="true"><figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div data-full-width="true"><figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure></div>
 
 And that's it. A validator can be a full participant in the Ethereum network just by performing its required duties (attestations, etc.) and proposing vanilla blocks. So why are only \~7.5% of blocks vanilla?
 
@@ -52,7 +52,7 @@ Ethereum is a sequencer for its own transactions. A validator can choose to orde
 
 But what if the sequencing concept is extended further? What if instead of sequencing only the Ethereum L1 txs, Ethereum validators also sequenced L2 txs? This is `Based Sequencing` and is the foundation of `Based Rollups`.
 
-<div data-full-width="true"><figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure></div>
+<div data-full-width="true"><figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure></div>
 
 That looks like a lot of extra work for an individual validator - but don't despair! In practice, this specialized L2 sequencing, proving, and blob creation is performed by specialized actors and the proposer simply accepts whole Ethereum blocks through MEV Boost. As an Ethereum validator, if you're currently using MEV Boost you are already sequencing based rollups without even knowing it 🤯
 

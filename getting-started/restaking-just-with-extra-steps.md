@@ -14,9 +14,9 @@ This is the reality of restaking for validators. For a little extra yield, you g
 
 Restaking "squeezes" the security of Ethereum, compressing it into the hands that govern a small number of restaking protocols.
 
-<figure><img src="../.gitbook/assets/image.png" alt="" width="533"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt="" width="533"><figcaption></figcaption></figure>
 
 Restaking has a lot of use cases, but securing the majority of Ethereum should not be one of them. It would be an attack on the network in the same way a single LST provider capturing the majority of staked ETH would be an attack.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt="" width="523"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt="" width="523"><figcaption></figcaption></figure>
 
