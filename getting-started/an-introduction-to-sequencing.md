@@ -62,7 +62,7 @@ This is how Ethereum scales. This is how Ethereum solves fragmentation and compo
 
 But there's a catch. The Ethereum L1 is slow! :snail:&#x20;
 
-One of the main benefits to users currently on L2s (other than much lower gas fees) is that transactions get confirmed very quickly, on the order of 2 seconds or less. This is a big UX improvement as users get a " ✅" response without waiting a full 12 seconds or more for their transaction to be included on the L1.
+One of the main benefits to users currently on L2s (other than much lower gas fees) is that transactions get confirmed very quickly, on the order of 2 seconds or less. This is a big UX improvement as users get a ✅ response without waiting a full 12 seconds or more for their transaction to be included on the L1.
 
 So what is the solution? Preconfirmations ⏱️
 

@@ -17,6 +17,10 @@ description: The timeline and resources for Ethereum Based Rollups.
 
 * [Shared Sequencing: Defragmenting the L2 Rollup Ecosystem - Expresso](https://hackmd.io/@EspressoSystems/SharedSequencing)
 
+## October
+
+* [Do Rollups Inherit Security? - Jon Charbonneau](https://dba.xyz/do-rollups-inherit-security/)
+
 ## November 2023
 
 * [Based preconfirmations - Justin Drake](https://ethresear.ch/t/based-preconfirmations/17353)
@@ -47,6 +51,9 @@ description: The timeline and resources for Ethereum Based Rollups.
 * [How Ethereum can solve L2 liquidity fragmentation - Tim Robinson](https://paragraph.xyz/@blueyard/how-ethereum-can-solve-l2-liquidity-fragmentation)
 * [Ethereum Sequencing and Preconfirmations Call #0](https://www.youtube.com/watch?v=8xFVC9T9LR4\&list=PLJqWcTqh_zKHDFarAcF29QfdMlUpReZrR)
 * [Ethereum L1 as a shared sequencer with preconfirmations - Justin Drake](https://notes.ethereum.org/WLuNFaliQiqw7Zhd-7AnmQ)
+
+
+
 * [Ethereum Sequencing and Preconfirmations Call #1](https://www.youtube.com/watch?v=2IK136vz-PM\&list=PLJqWcTqh_zKHDFarAcF29QfdMlUpReZrR)
 * [Ethereum Sequencing and Preconfirmations Call #2](https://www.youtube.com/watch?v=mAGGdPRmhsc\&list=PLJqWcTqh_zKHDFarAcF29QfdMlUpReZrR)
 
@@ -88,7 +95,13 @@ description: The timeline and resources for Ethereum Based Rollups.
 * [Who owns the write lock? Relays vs Gateways vs Sequencers vs Inclusion Lists](https://streameth.org/zuberlin/watch?session=666b14db07f92b086c2cb587)
 * [We're All Building the Same Thing - Jon Charbonneau](https://dba.xyz/were-all-building-the-same-thing)
 * [Ethereum Sequencing and Preconfirmations Call #10](https://www.youtube.com/watch?v=jrm4ZUoj9xY\&list=PLJqWcTqh_zKHDFarAcF29QfdMlUpReZrR)
+  * commit-boost
 * [Ethereum Sequencing and Preconfirmations Call #11](https://www.youtube.com/watch?v=fbyy_IHo-lI\&list=PLJqWcTqh_zKHDFarAcF29QfdMlUpReZrR)
+  * Coinbase - Keyspace
+
+## July 2024
+
+* [Preconfirmations: Explained - Luganodes](https://www.luganodes.com/blog/preconfirmations-explained/)
 
 ## August 2024
 
