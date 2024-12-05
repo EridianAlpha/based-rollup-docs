@@ -24,8 +24,6 @@ At t=12s the L1 proposes the next block and the L2 bids to include the changes m
 
 <div data-full-width="true"><figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure></div>
 
-s
-
 
 
 It's the interface bettween this seperate states that are the difference between an Ethereum L2, a side chain and an alternative L1.

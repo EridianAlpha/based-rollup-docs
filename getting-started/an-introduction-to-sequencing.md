@@ -11,7 +11,7 @@ Even though `Based Sequencing` has only [more recently been discussed](https://e
 When a validator is selected to propose a block they have complete control over the order of the transactions in the block they build. They can't include invalid transactions (tx) but can include (or exclude) any tx as long as it covers the [base gas fee](https://ethereum.org/en/developers/docs/gas/#base-fee).
 
 {% hint style="info" %}
-This may change in the future with features such as [FOCIL](https://eips.ethereum.org/EIPS/eip-7805) and [BRAID](https://www.coinlive.com/news/ethereum-s-road-to-anti-censorship-braid-and-focil-who-is-better) but as of writing, Ethereum validators still have absolute control during their block proposal.
+This may change in the future with features such as [FOCIL](https://eips.ethereum.org/EIPS/eip-7805), [BRAID](https://www.coinlive.com/news/ethereum-s-road-to-anti-censorship-braid-and-focil-who-is-better), and [Execution Tickets](https://ethresear.ch/t/execution-tickets/17944) but as of writing, Ethereum validators still have absolute control during their block proposal.
 {% endhint %}
 
 When a validator only uses their local mempool to look for txs to include in their block it is called `vanilla block building`.
