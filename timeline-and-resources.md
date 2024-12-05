@@ -106,6 +106,7 @@ description: The timeline and resources for Ethereum Based Rollups.
 ## August 2024
 
 * [Ethereum Sequencing and Preconfirmations Call #12](https://www.youtube.com/watch?v=nHyhUKlmyTE\&list=PLJqWcTqh_zKHDFarAcF29QfdMlUpReZrR)
+  * Preconf Demo Day! 4 teams showcase their progress
 * [Ethereum Sequencing and Preconfirmations Call #13](https://www.youtube.com/watch?v=oNLPglf2cQY\&list=PLJqWcTqh_zKHDFarAcF29QfdMlUpReZrR)
 
 ## September 2024
