@@ -6,6 +6,12 @@ description: >-
 
 # 💎 Based Rollups
 
+{% hint style="warning" %}
+**PUBLIC ARCHIVE**
+
+These docs have been moved to the Spire docs site: [https://docs.spire.dev](https://docs.spire.dev)
+{% endhint %}
+
 ## ⏱️ Based Rollups in 60 seconds
 
 Ethereum is the most credibly neutral and censorship-resistant shared consensus protocol humanity has ever created. It's the geographically, economically, and culturally diverse validator set that makes this possible. Rollups can be an extension of Ethereum, but currently, nearly all rollups use their own validator set, usually a single centralized sequencer. This limits composability and causes liquidity fragmentation, creating "island nations" rather than a unified Ethereum. Based rollups solve this problem by giving the power to sequence transactions in a rollup to the Ethereum L1 validators. This arrangement can create significant benefits for Ethereum, such as synchronous atomic composability, preconfirmations, and more!
